@@ -89,7 +89,6 @@ This app stands on the work of others. Thank you to:
 - **AIDE** (Android IDE) used to build the app.
 - Parts of the code were written with the help of **Claude**, an AI assistant by Anthropic.
 
-The Opus and RNNoise license texts are in their `COPYING` files inside the `jni` folder; please keep them if you redistribute this project.
 
 ## License
 
